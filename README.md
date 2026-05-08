@@ -2,7 +2,7 @@
 
 Data Analyst based in Nairobi, Kenya. I work with data to uncover insights that help businesses make better decisions.
 
-## 🛠 Tools & Skills
+## Tools & Skills
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy
 - **Visualisation:** Tableau, Power Bi, Matplotlib
