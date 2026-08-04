@@ -12,7 +12,7 @@ Data Analyst based in Nairobi, Kenya. I work with data to uncover insights that 
 | Project | Description | Tools |
 |---|---|---|
 | [Aircraft Safety Analysis](https://github.com/nduvawinnie/aircraft-safety-analysis-review) | Analysed aviation fatality data to identify lowest-risk aircraft for business investment | Python, Pandas, Tableau |
-| [Amazon Sales Analysis](https://github.com/nduvawinnie/AMAZON-SALES-ANAYSIS) | Sales performance analysis across Amazon product categories | Python, Pandas |
+| [Kenya Political Violence Risk Prediction](https://github.com/nduvawinnie/kenya-political-violence-risk-prediction) | Two-stage model predicting political violence severity in Kenya from ACLED and WorldPop data | Python, Scikit-learn, XGBoost |
 | [Tanzanian Water Well Prediction](https://github.com/nduvawinnie/TANZANIAN_WATERWELL_PREDICTIVE_MODEL_REVIEW_1) | Predictive model to classify water well functionality | Python, Scikit-learn |
 
 
